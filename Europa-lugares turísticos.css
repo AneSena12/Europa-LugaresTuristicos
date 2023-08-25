@@ -1,0 +1,64 @@
+h1{
+    color: black;
+    font-family:monospace;
+    font-style: normal;
+    text-align: left;
+    background-color: #fffdff;
+       
+}
+body {
+    background-color: #fffdff;
+    text-align: left;
+  }
+h3{
+  color: white;
+ }
+
+  h4{
+    text-align: left;
+    background-position: white;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+
+p{
+    color: rgb(8, 8, 48);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    background-color: white;
+
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding: 10px 10px;
+  }
+  
+  nav {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+  }
+  a{
+    color: white;
+    
+  }
+
+ aside{
+  width: 25%; height: 80%; position: fixed; right: 0; bottom: 0;
+  background-color: white;
+ }
+
+  
+
+    footer {
+    text-align: center;
+    background-color: black;
+    padding: 5px 5px;
+  }
+
